@@ -1,0 +1,41 @@
+body{
+  padding: 25px;
+   background:#03001e;
+}
+.title {
+	color: #fc6c01;
+}
+.title{
+  border: solid 2px;
+  text-align: center;
+  border-color: #fc6c01;
+  background: grey;
+  color: black;
+  border-radius: 10px 10px 10px 10px;
+  margin: 10px 0 0 0;
+  padding: 0 0 0 0;
+  font-family: Monospace;
+  font-size: px;
+}
+.time {
+  border: solid 1px;
+  text-align: left;
+  border-radius: 10px 10px 10px 10px;
+  padding: 0 0 0 1px;
+  margin: 0px 0px 20px 20px;
+  
+  inline-size: 150px;
+  background:  grey;
+  font-family: Monospace;
+  color:black;
+  border-color: #fc6c01;
+}
+
+.content{
+  border: solid 2px;
+  text-align: center;
+  background: grey;
+  border-color: #fc6c01;
+  font-family: Monospace;
+  font-size: 20px;
+}
